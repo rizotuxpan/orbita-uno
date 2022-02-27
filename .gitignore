@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+bin/
+pyvenv.cfg
 *.py[cod]
 *$py.class
 
